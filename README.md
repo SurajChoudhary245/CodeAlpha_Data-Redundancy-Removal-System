@@ -1,4 +1,4 @@
-# Cloud-Based Data Validation and Deduplication System
+# Data Redundancy Removal System
 
 This project implements a cloud-based system to validate and duplicate data using AWS services.
 
